@@ -1,0 +1,10 @@
+What is the capital of France?|Paris|Europe,easy
+What is the capital of Japan?|Tokyo|Asia,easy
+What is the capital of Brazil?|Brasilia|South America,hard
+What is the capital of Australia?|Canberra|Australia,hard
+What is the capital of Egypt?|Cairo|Africa,easy
+What is the capital of Canada?|Ottawa|North America,easy
+What is the capital of India?|New Delhi|Asia,easy
+What is the capital of Russia?|Moscow|Europe,easy
+What is the capital of South Africa?|Pretoria|Africa,hard
+What is the capital of Mexico?|Mexico City|North America,easy
